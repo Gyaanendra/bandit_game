@@ -11,7 +11,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 #### Level 0
 
-- `Password: bandit0`
+- Password: `bandit0`
 
 #### Level 1
 
@@ -23,11 +23,11 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 #### Level 3
 
-`- Password: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG`
+- Password: `aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG`
 
 #### Level 4
 
-`- Password: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe`
+- Password: `2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe`
 
 #### Level 5
 
@@ -59,4 +59,82 @@ Note: Command  `cat data.txt | sort | uniq -u`
 
 - `Password: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s`
 
-Note: Command  `strings data.txt |grep "=" `
+Note: Command  `strings data.txt |grep "="`
+
+#### Level 11
+
+- `Password: 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM`
+
+Note: Command `cat data.txt | base64 -d`
+
+#### Level 12
+
+- `Password: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv`
+
+Note: Using cat to list the content them using rot 13 to decode it .
+
+#### Level 13
+
+- `Password: `
+
+Note: Command
+
+#### Level 14
+
+- `Password: `
+
+Note: Command
+
+#### Level 15
+
+- `Password: `
+
+Note: Command
+
+#### Level 16
+
+- `Password: `
+
+Note: Command
+
+#### Level 17
+
+- `Password: `
+
+Note: Command
+
+#### Level 18
+
+- `Password: `
+
+Note: Command
+
+#### Level 19
+
+- `Password: `
+
+Note: Command
+
+#### Level 20
+
+- `Password: `
+
+Note: Command
+
+#### Level 21
+
+- `Password: `
+
+Note: Command
+
+#### Level 22
+
+- `Password: `
+
+Note: Command
+
+#### Level 23
+
+- `Password: `
+
+Note: Command
