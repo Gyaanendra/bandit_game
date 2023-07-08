@@ -41,7 +41,7 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 - `Password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S`
 
-Note: To remove the error "find / -user bandit7 -group bandit6 2>/dev/null", use the following command: `find / -user bandit7 -group bandit6 2>/dev/null`
+Note: To remove the error use  "2>/dev/null", use the following command: `find / -user bandit7 -group bandit6 2>/dev/null`
 
 #### Level 8
 
